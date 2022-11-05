@@ -3,6 +3,8 @@
 Codestates AI Bootcamp 15th Project_1
 - 정경재(Kyung-Jae, Cheong)
 
+블로그 포스팅 바로가기 : [[Project] Video Game 기획 프로젝트](https://velog.io/@dankj1991/Project-Video-Game-%EA%B8%B0%ED%9A%8D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+
 # Video Game Planning Project
 - 어떤 게임을 설계해야 할까?
 - ![image](https://user-images.githubusercontent.com/109939415/193781143-a2850d10-dfd2-4e3e-beef-961d8fccb378.png)
